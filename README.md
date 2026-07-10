@@ -40,16 +40,20 @@ LICENSE
 ```
 
 ---
-
 ## 📸 Screenshots
+
+### Game Start
+
+![Game Start](images/gameStart.png)
 
 ### Gameplay
 
-![Gameplay](images/gameplay.png)
+![Gameplay](images/gamePlay.png)
 
 ### Game Over
 
-![Game Over](images/gameover.png)
+![Game Over](images/gameOver.png)
+
 
 ---
 
